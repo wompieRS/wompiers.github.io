@@ -10,21 +10,22 @@
 ############################
 
 # Name of website
-title: My website
+title: Womp Town
 
 # Your name to show in the footer
-author: Some Person
+author: wompieRS
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Home: "https://womp.dev""
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+
 
 ################
 # --- Logo --- #
